@@ -33,11 +33,6 @@ export default defineConfig({
                     autogenerate: { directory: 'GIT' },
                 },
                 {
-                    label: 'Herramientas',
-                    collapsed: true,
-                    autogenerate: { directory: 'Herramientas' },
-                },
-                {
                     label: 'HTML',
                     collapsed: true,
                     autogenerate: { directory: 'HTML' },
@@ -81,6 +76,11 @@ export default defineConfig({
                     label: 'Shell',
                     collapsed: true,
                     autogenerate: { directory: 'Shell' },
+                },
+                {
+                    label: 'Tools',
+                    collapsed: true,
+                    autogenerate: { directory: 'Tools' },
                 },
                 {
                     label: 'VSCode',

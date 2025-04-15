@@ -1,24 +1,18 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: Welcome to the Docs Repository
+description: Documentation for dummies.
 ---
 
+import { Card, CardGrid } from '@astrojs/starlight/components'
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+This is an open and collaborative space to centralize knowledge about various programming tools and technologies. You'll find categorized documentation with notes, quick guides, and handy tips you can refer to anytime.
 
-## Next steps
-
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+<CardGrid>
+    <Card title="🤝 Contribute!" icon="add-document">
+        This project is open to everyone. Whether you want to fix errors, add new topics, or improve existing content —
+        your contributions are more than welcome!
+    </Card>
+    <Card title="Starlight" icon="open-book">
+        This was made with Astro + Starlight. Learn more in [the Starlight Docs](https://starlight.astro.build/).
+    </Card>
 </CardGrid>
