@@ -1,0 +1,47 @@
+---
+title: Estructura de versiones de NPM
+---
+
+import { Aside } from '@astrojs/starlight/components'
+
+## ¿Cómo se estructuran las versiones en NPM?
+
+En NPM, las versiones siguen el esquema **SemVer** (Semantic Versioning), que utiliza tres números separados por puntos:
+
+```
+MAJOR.MINOR.PATCH
+```
+
+Por ejemplo: `2.5.3`
+
+-   **MAJOR** (`2.x.x`) – Cambia cuando se introducen cambios que rompen la compatibilidad con versiones anteriores (breaking changes).
+-   **MINOR** (`x.5.x`) – Cambia cuando se agregan nuevas funcionalidades sin romper compatibilidad (Publicar una feature).
+-   **PATCH** (`x.x.3`) – Cambia cuando se corrigen errores o se hacen pequeñas mejoras internas sin afectar la funcionalidad externa. (bugfix)
+
+## Uso de rangos en versiones
+
+NPM permite especificar rangos de versiones. Uno de los más comunes es el **caret (`^`)**.
+
+### ¿Qué hace el caret (`^`)?
+
+Cuando usas una versión con `^`, como `^1.1.8`, NPM permitirá instalar automáticamente versiones más recientes, **siempre que no cambie la versión `MAJOR`**. Es decir:
+
+```
+^1.1.8 → Puede instalar 1.1.9, 1.2.0, pero no 2.0.0
+```
+
+Esto es útil para mantener los paquetes actualizados automáticamente, **sin romper la compatibilidad** (en teoría).
+
+<Aside type="caution">
+    Aunque esto ayuda a mantener los paquetes actualizados, también presenta un **riesgo de seguridad**. Si se publica
+    una nueva versión que contiene código malicioso (por ejemplo, por una cuenta comprometida), esta podría instalarse
+    automáticamente antes de que sea detectada como peligrosa.
+</Aside>
+
+### Recomendación
+
+Para proyectos sensibles o en producción, se recomienda:
+
+-   Fijar versiones exactas (`1.1.8`) en lugar de rangos.
+-   Usar herramientas como `npm audit`, `npm-lock.json` y servicios como [Snyk](https://snyk.io) para detectar vulnerabilidades.
+-   Revisar los cambios antes de actualizar paquetes automáticamente.
