@@ -1,0 +1,76 @@
+---
+title: Manejo de fechas
+---
+
+import { Aside } from '@astrojs/starlight/components'
+
+# Fechas en JavaScript
+
+El manejo de fechas en JavaScript se basa en el objeto global `Date`, que proviene de Java.
+
+---
+
+## Uso del objeto `Date`
+
+JavaScript incluye el objeto `Date`, inspirado en el de Java, para crear, manipular y formatear fechas.
+
+```javascript
+const now = new Date()
+console.log(now) // Ejemplo: Sat Apr 13 2024 12:34:56 GMT+0200
+```
+
+Puedes construir fechas de varias formas:
+
+```javascript
+new Date() // Fecha actual
+new Date('2024-04-13') // Desde string ISO
+new Date(2024, 3, 13) // Año, mes (0-indexado), día
+```
+
+---
+
+Formateo de fechas con traducciones
+
+Una forma moderna y nativa de formatear fechas localizadas es con `Intl.DateTimeFormat`.
+
+```javascript
+const format = (date, locale, options) => new Intl.DateTimeFormat(locale, options).format(date)
+
+const now = new Date()
+
+format(now, 'es') // → dd/mm/yyyy
+format(now, 'en') // → mm/dd/yyyy
+
+format(now, 'es', { dateStyle: 'long' }) // → '13 de abril de 2024'
+format(now, 'en', { weekday: 'short', day: 'numeric' }) // → 'Thu, 13'
+```
+
+📌 Nota: `Intl.DateTimeFormat` permite una amplia personalización usando opciones como `dateStyle`, `timeStyle`, `weekday`, `month`, entre otras.
+
+## Temporal
+
+Temporal es una nueva API propuesta para reemplazar al objeto `Date`, ofreciendo una forma más precisa, intuitiva y robusta de trabajar con fechas y zonas horarias.
+
+```javascript
+// Ejemplo básico (cuando esté disponible)
+const today = Temporal.Now.instant()
+const instant = Temporal.Instant.from('1969-07-20T20:17Z')
+instant.ToString() // => 1969-07-20T20:17Z
+
+instant.add({ days: 1, seconds: 1 }).toString()
+
+const date = Temporal.PlainDate.from({ year: 2006, month: 8, day: 24 })
+date.toString() // => '2006-08-24'
+```
+
+<Aside type="caution">
+    ⚠️ Compatibilidad: Actualmente, Temporal aún no está disponible en todos los navegadores. Puedes usar un polyfill
+    oficial mientras tanto.
+</Aside>
+
+---
+
+## Librerías recomendadas
+
+[TEMPO](https://tempo.formkit.com/)
+“The easiest way to work with dates in JavaScript.”
