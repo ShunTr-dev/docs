@@ -1,0 +1,26 @@
+---
+title: Discourse Markers
+---
+
+-   *Talking of* / Speaking of: To change the direction of a converesation, but making a link with waht has just been said.
+-   By the way / *Incidentally*: To introduce something you just have thought of, or to change the subject.
+-   Actually / In fact / As a matter of fact: To introduce additional surprising or unexpected information.
+-   In any case / Anyway: To introduce the idea that what you said before is less important than you are saying now, or return to the main topic after a digression.
+-   At least: To introduce a positive point after some negative information, or to qualify what you have just said or to make it less definite.
+-   As I was saying: To return to a previous subject, often after you have been interrupted.
+-   on the whole: to generalize.
+-   all in all: To say that you are taking everything into consideration.
+-   After all: To introduce an argument that the other person may not have considered.
+-   *Besides*: To introduce an additional point. (More info, además)
+-   Basically: To introduce the most important or fundamental point.
+-   Obviously: To introduce a fact that is very clear to see or understand.
+-   I mean: To make things clearer, or give more details.
+-   In other words: To say something again in another way.
+-   Otherwise: To say what the result would be if something did not happen or were different. (if not)
+-   As far as (SM) is concerned / *As regards* / regarding: To introduce a new topic or to announce a change of subject. (dont have to mention the idea)
+-   *That is to say*: To introduce an explanation or clarification of a point you have just made.
+-   On the one hand / on the other hand: To balance contrasting facts or points. On the other hand is also used alone to introduce a contrasting fact or point.
+-   In spite of / however:
+-   Even thoug / althoung:
+-   as like / such as:
+-   due to: 
