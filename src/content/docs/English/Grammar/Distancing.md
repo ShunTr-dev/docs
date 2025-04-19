@@ -42,16 +42,33 @@ There can also be used + passive verb+to+ infinitive. Compare:
 
 1 Apparently, Jeff and Katie have separated.
 
+We use apparently (usually either at the beginning or the end of a phrase) to mean that we have heard/read something, but that it may not be true. This is very common in informal conversation.
+
 2 According to new research, the idea that we have to drink two litres of water a day is a myth.
+
+We use according to to specify where information has come from. We use it to attribute opinions to somebody else. NOT According to me
 
 3 Dinosaurs may have died out due to extremely rapid climate change. There are rumours that the band, who broke up ten years ago. might be planning to reform and record a new album.
 
+Using may/might also suggests that something is a possibility, but not necessarily true.
+
 4 The health minister claims to have reduced waiting times.
 
-1. We use apparently (usually either at the beginning or the end of a phrase) to mean that we have heard/read something, but that it may not be true. This is very common in informal conversation.
+We can say that somebody claims something when there is some doubt about whether it is true.
 
-2. We use according to to specify where information has come from. We use it to attribute opinions to somebody else. NOT According to me
+## examples of transformation
 
-3 Using may/might also suggests that something is a possibility, but not necessarily true.
+Apparently, trumps victory fuelled the rise of BT
+it seems / is said / appears that trump...
 
-4 We can say that somebody claims something when there is some doubt about whether it is true.
+Meteorologists expect temperatures to drop further this week
+Temperatures are expected to drop further
+
+Scientist though that giant sequoias are inmune to drougts and insects
+Giant secuoias may be/ were are thought to be inmune to droghts and insects
+
+It seems that there is a trend of people moving out cities
+There seens to be a trend of...
+
+Census figures reveal that Spain is now a country of many faiths
+According to census figures...

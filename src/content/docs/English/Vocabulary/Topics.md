@@ -191,6 +191,52 @@ title: Topics
 ## Trips & hollidays
 
     - littering: throwing garbaje
+    - pamper yourself:
+    - fussy
+    - picky
+    - haggle
+    - travel pack
+    - overpack
+    - lively
+    - breathtaking
+    - iconic
+    - imposing
+    - lively
+    - off the beaten trak
+    - picturesque
+    - remote
+    - unspoilt
+    - dull
+    - overcrowded
+    - overrated
+    - pricey
+    - run-down
+    - soulless
+    - spoilt
+    - tacky
+    - touristy
+    - unwind
+    - unimposing
+    - extend a trip
+    - go camping
+    - go backpacking
+    - go sightseeing
+    - go for a stroll
+    - go on holiday
+    - go on an outing
+    - go on a trip
+    - go on a safari
+    - go on a trek
+    - go on a cruise
+    - go on a journey
+    - postpone a visit
+    - wander round the old town
+    - chill out
+    - soak up the atmosphere
+    - sample the local cousine
+    - hit the shops
+    - get away from it all
+    - recharge your batteries
 
 ## Animals
 
