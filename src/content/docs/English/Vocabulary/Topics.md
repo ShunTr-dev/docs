@@ -19,6 +19,7 @@ title: Topics
     - heir: heredero
     - death toll:
     - arsonist: pirómano
+    - seldon: rarely
 
 ## Life
 
