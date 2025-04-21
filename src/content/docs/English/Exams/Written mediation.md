@@ -1,5 +1,5 @@
 ---
-title: Written mediation.
+title: Written mediation
 ---
 
 ## 🧠 What is written mediation?
