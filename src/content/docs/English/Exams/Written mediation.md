@@ -2,45 +2,96 @@
 title: Written mediation.
 ---
 
-Mediación escrita (Written mediation)
+## 🧠 What is written mediation?
 
-¿Qué es?
-Tienes que leer un texto en inglés y explicar su contenido a otra persona (real o ficticia), adaptándolo a su nivel o necesidad. No se trata de traducir palabra por palabra.
-Ejemplo típico:
-Explicar en un email informal a un compañero lo que dice un artículo técnico.
+**Written mediation** is when you read a text in English and **explain its content to someone else**, adapting the message to their **level, background, or needs**.  
+⚠️ It's _not_ about translating word-for-word — it’s about **reorganizing and reformulating the information** in your own words.
 
-¿Qué se evalúa?
-Tu capacidad para transmitir información de forma clara, adaptada al receptor, reorganizando ideas y usando tu propio lenguaje.
+---
 
-🎯 Objetivo:
+## 🎯 Goal of written mediation
 
-Transmitir información de un texto adaptándola a una persona con otro nivel o necesidad.
-✍️ Estrategia:
+> To clearly and effectively **communicate the relevant ideas** from a text, adapting them to **suit the target audience**.
 
-    Lee bien el texto original (identifica las ideas principales).
+---
 
-    Usa tus propias palabras. ¡Nada de copiar frases enteras!
+## ✍️ Step-by-step strategy
 
-    Sé claro, ordenado y conciso.
+1. **Read the original text carefully**  
+   ➤ Identify the main idea clearly. (numbers, source, country...).
 
-    Adapta el lenguaje al destinatario: si es un amigo, usa tono informal; si es tu jefe, más serio.
+2. **Use your own words**  
+   ➤ Explain the (most relevants) details.
 
-🧾 Ejemplo:
+3. **Organize the information logically**  
+   ➤ Group similar ideas, highlight contrasts or trends, and avoid repeating things unnecessarily.
 
-Si tienes un artículo científico, y tu amigo quiere saber de qué trata:
+4. **Be clear, concise, and objective**  
+   ➤ Prioritize what matters — don’t include every detail, just the relevant ones.
 
-    “The article explains how artificial intelligence is helping doctors to diagnose diseases more quickly. It says that machines can spot patterns that are difficult for humans to see. The author believes this will improve healthcare in the future.”
+5. **Not all the percentages has to be transformed in quarters**
 
-# Quality criteria for a good mediation
+---
 
-1. Identify the main idea clearly. (Source + demographics + country)
-2. Explain the (most relevants) details.
-3. Adapt the language (stay DRY) Change the words
-4. Be objective
-5. Not all the percentages has to be transformed in quarters
+## ✅ Quality checklist
 
--> reformulation of the numbers: 37% => 1/3
--> (more) complex language
--> Source (Pew Research centre)
--> Respondents/ demographics specific info
--> Grouping data + elaborating data
+-   [ ] **Clear main idea**
+-   [ ] **Relevant details selected and rephrased**
+-   [ ] **Reformulated expressions and percentages**
+-   [ ] **Well-organized and easy to follow**
+
+---
+
+## 🎯 Tips and Tricks
+
+✨ **Rephrasing numbers and stats**
+
+-   37% → “about a third”
+-   73% → “almost three-quarters”
+-   Not every number needs to be changed — focus on what’s clearest.
+
+✨ **Include the source**
+
+-   “According to a 2023 report by the _Pew Research Center_...”
+-   “A survey carried out by _YouGov_ shows that...”
+
+✨ **Group and interpret data**
+
+-   Group: “Altogether, over 60% of participants said...”
+-   Interpret: “This suggests a clear trend towards...”
+
+## 🟢 **How to Start**
+
+Begin by **setting the context** of the original text. Mention where the information comes from and what the topic is about — this helps your reader understand the background.
+
+### Useful openers:
+
+-   “The article discusses…”
+-   “According to a recent study by [source]...”
+-   “This report focuses on…”
+-   “Considering this, I'm going to explain…”
+-   “Here's a quick summary of what the text says about…”
+-   “The main idea of the article is that…”
+
+### Example:
+
+> “According to a 2024 survey by Pew Research Center, most young adults in the US are concerned about climate change. The article explains how this affects their daily choices.”
+
+---
+
+## 🔴 **How to Conclude**
+
+Wrap things up by **summarizing the main takeaway**, or **offering a closing idea** that makes the message clear. If the mediation is meant to be informal or personal, you can also **express a reaction**.
+
+### Useful closing lines:
+
+-   “In short, the text highlights…”
+-   “To sum up, it shows that…”
+-   “The author believes this will lead to…”
+-   “That’s the main idea behind the article.”
+-   “So, basically, it means that…”
+-   “It seems like this trend will continue in the future.”
+
+### Example:
+
+> “To sum up, the article shows that technology is becoming essential in healthcare, and the author is optimistic about its future role.”
