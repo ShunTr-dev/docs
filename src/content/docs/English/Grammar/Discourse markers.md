@@ -1,171 +1,96 @@
 ---
 title: Discourse Markers
+description: Discourse markers are words or phrases used to manage the flow of discourse in speaking or writing. They help structure your ideas, guide your listener or reader, and add coherence to your message.
 ---
 
--   _Talking of_ / Speaking of: To change the direction of a conversation, but making a link with what has just been said.
--   By the way / _Incidentally_: To introduce something you just have thought of, or to change the subject.
--   Actually / In fact / As a matter of fact: To introduce additional surprising or unexpected information.
--   In any case / Anyway: To introduce the idea that what you said before is less important than you are saying now, or return to the main topic after a digression.
--   At least: To introduce a positive point after some negative information, or to qualify what you have just said or to make it less definite.
--   As I was saying: To return to a previous subject, often after you have been interrupted.
--   on the whole: to generalize.
--   all in all: To say that you are taking everything into consideration.
--   After all: To introduce an argument that the other person may not have considered.
--   _Besides_: To introduce an additional point. (More info, además)
--   Basically: To introduce the most important or fundamental point.
--   Obviously: To introduce a fact that is very clear to see or understand.
--   I mean: To make things clearer, or give more details.
--   In other words: To say something again in another way.
--   Otherwise: To say what the result would be if something did not happen or were different. (if not)
--   As far as (SM) is concerned / _As regards_ / regarding: To introduce a new topic or to announce a change of subject. (dont have to mention the idea)
--   _That is to say_: To introduce an explanation or clarification of a point you have just made.
--   On the one hand / on the other hand: To balance contrasting facts or points. On the other hand is also used alone to introduce a contrasting fact or point.
--   In spite of / however:
--   Even thoug / althoung:
--   as like / such as:
--   due to:
+## 🔄 Changing Topic or Returning
+
+- **Talking of... / Speaking of...** – To change the direction of a conversation, but making a link with what has just been said.
+- **By the way / Incidentally** – To introduce something you just have thought of, or to change the subject.
+- **As I was saying** – Used to return to a previous topic, especially after a digression or interruption.  
+- **As far as (someone) is concerned / As regards / Regarding** – To introduce a new topic or shift the focus.
+- **In any case / Anyway** To introduce the idea that what you said before is less important than you are saying now, or return to the main topic after a digression.
+- **After all** - To introduce an argument that the other person may not have considered.
+- **That is to say** - To introduce an explanation or clarification of a point you have just made.
 
 ---
 
-## 2. 🔗 LINKING DEVICES - discourse markers
+## 📌 Adding Information
 
-### Adding
-
--   Furthermore, In addition, Moreover, What’s more
-
-### Contrasting
-
--   However, On the other hand, Nevertheless, Although
-
-### Giving Examples
-
--   For example, For instance, Such as, To illustrate
-
-### Cause/Effect
-
--   Because, As a result, Therefore, Consequently
-
-### Concluding
-
--   In conclusion, To sum up, All things considered
+- **Furthermore / Moreover / What’s more** – To add more support or information.  
+- **In addition (to that)** – To introduce extra information.  
+- **Not only that, but...** – Adds emphasis when introducing a further point.  
+- **Besides** – Adds a new point, often reinforcing an argument.
 
 ---
 
-## 3. 💬 FORMAL VS INFORMAL VOCABULARY
+## ❗ Emphasizing
 
-| **Formal**    | **Informal**   |
-| ------------- | -------------- |
-| Nevertheless  | Anyway / Still |
-| In my opinion | I think        |
-| Consequently  | So             |
-| Assist        | Help           |
-| Purchase      | Buy            |
-| Request       | Ask for        |
+- **Basically** – To highlight the core idea or main point.
+- **Obviously** - To introduce a fact that is very clear to see or understand.
+- **Indeed / Actually / In fact / As a matter of fact** – To stress something unexpected or surprising.  
+- **What I’d really like to stress is...**  
+- **It’s important to highlight that...**
 
 ---
 
-## 4. ✨ ADVANCED PHRASES & EXPRESSIONS
+## ✏️ Clarifying & Explaining
 
--   It is widely believed that...
--   There is no doubt that...
--   A growing number of people...
--   It can be argued that...
--   One possible solution might be...
--   The benefits clearly outweigh the drawbacks.
-
--   **Adding:** Moreover, Furthermore, In addition
-    -   **Contrasting:** However, On the other hand, Although
-    -   **Ordering:** Firstly, Secondly, Finally
-    -   **Concluding:** In conclusion, To sum up, Overall
--
-
-#### 📝 Summarizing:
-
--   "In summary, the text emphasizes..."
--   "The key idea is that..."
--   "One of the main points raised is..."
-
-#### 🔁 Paraphrasing:
-
--   "To put it another way..."
--   "This can be understood as..."
--   "In simpler terms..."
-
-#### 📣 Clarifying:
-
--   "This means that..."
--   "In other words..."
--   "To make this clearer..."
-
-#### 🧱 Structuring:
-
--   "Firstly, Secondly, Finally..."
--   "Moreover / Furthermore / In addition..."
--   "However / On the other hand..."
--   "As a result / Therefore..."
-
-#### 📎 Concluding:
-
--   "To conclude, the text suggests..."
--   "Overall, it can be seen that..."
--   "This information could be useful for..."
--
-
-#### Contrast:
-
--   However / Nevertheless / On the other hand
--   Whereas / While / Although / Even though
-
-#### Addition:
-
--   Furthermore / Moreover / In addition / Not only that
-
-#### Cause & Effect:
-
--   Because of / Due to / As a result / Therefore / Consequently
-
-#### Examples:
-
--   For instance / For example / Such as / Namely
-
-#### Emphasis:
-
--   What I’d really like to stress is...
--   It’s important to highlight that...
--   Indeed / In fact
--
-
-Use these to organize and connect your thoughts smoothly:
-
-### Adding
-
--   **Moreover**, ...
--   **In addition to that**, ...
--   **Not only that, but...**
-
-### Contrasting
-
--   **However**, ...
--   **On the other hand**, ...
--   **That being said**, ...
--   **Whereas...**
-
-### Explaining/Clearing up
-
--   **What I mean is**, ...
--   **To put it another way**, ...
--   **In other words**, ...
-
-### Giving Examples
-
--   **For instance**, ...
--   **Such as...**
--   **To illustrate**, ...
-
-### Concluding
-
--   **All things considered**, ...
--   **To sum up**, ...
--   **Ultimately**, ...
+- **I mean** – To clarify or give more details.  
+- **That is to say** – Introduces an explanation or clarification.  
+- **In other words / To put it another way** – To rephrase for better understanding.  
+- **This means that... / To make this clearer...**
 
 ---
+
+## ⚖️ Contrasting & Conceding
+
+- **However / Nevertheless / That being said** – Show contrast or opposition.  
+- **On the one hand / On the other hand** – To balance contrasting points; "on the other hand" can be used alone.  
+- **Although / Even though / While / Whereas** – To introduce contrasting ideas.  
+- **In spite of** – Indicates contrast despite circumstances.
+
+---
+
+## 📍 Giving Examples
+
+- **For example / For instance** – To introduce an example.  
+- **Namely** – Specifies something mentioned earlier.  
+- **Such as** – To list specific examples.  
+- **To illustrate** – Introduces a clarifying example or scenario.
+- **As like / Such as** - To introduce an example.  
+
+---
+
+## ➡️ Cause and Effect
+
+- **Because / Because of** – Shows the reason or cause.  
+- **Due to** – Indicates a cause or reason.  
+- **As a result / Therefore / Consequently** – Shows the result or effect of something.
+
+---
+
+## 🧩 Qualifying / Softening
+
+- **At least** – Softens a statement or adds a positive point after negative information.  
+- **Otherwise** – Shows a different outcome or condition if something doesn't happen.
+
+---
+
+## 🔚 Concluding / Summarizing
+
+- **In conclusion / To sum up / Ultimately** – Used to close or summarize.  
+- **Overall / All things considered** – To express a final general point.  
+- **In summary** – Wraps up key ideas.  
+- **All in all** - To say that you are taking everything into consideration.
+- **The key idea is that... / One of the main points is...**
+
+---
+
+## 🧱 Structuring Ideas
+
+- **Firstly / Secondly / Finally** – Organize and order points clearly.  
+- **Moreover / Furthermore / In addition** – For continuation.  
+- **However / On the other hand** – For contrast.  
+- **As a result / Therefore** – For cause-effect relationships.
+- **On the whole** - to generalize.
