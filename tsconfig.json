@@ -1,5 +1,12 @@
 {
-  "extends": "astro/tsconfigs/strict",
-  "include": [".astro/types.d.ts", "**/*"],
-  "exclude": ["dist"]
+    "extends": "astro/tsconfigs/strict",
+    "include": [".astro/types.d.ts", "**/*"],
+    "exclude": ["dist"],
+
+    "paths": {
+        "@/components/*": ["src/components/*"],
+        "@/ui/*": ["src/components/ui/*"],
+        "@/layout/*": ["src/components/layout/*"],
+        "@/styles/*": ["src/styles/*"]
+    }
 }
