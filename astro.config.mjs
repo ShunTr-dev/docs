@@ -4,11 +4,12 @@ import starlight from '@astrojs/starlight'
 
 // https://astro.build/config
 export default defineConfig({
+    site: 'https://docs.shuntr.dev',
     integrations: [
         starlight({
             title: 'Docs for dummies',
             social: [
-                { icon: 'linkedin', label: 'LinkedIn', href: 'https://linkedin.com/in/pablo-martinez-developer' },
+                //{ icon: 'linkedin', label: 'LinkedIn', href: 'https://linkedin.com/in/pablo-martinez-developer' },
                 { icon: 'github', label: 'GitHub', href: 'https://github.com/ShunTr-dev/docs' },
             ],
             sidebar: [
