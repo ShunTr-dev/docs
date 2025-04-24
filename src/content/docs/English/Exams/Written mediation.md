@@ -9,30 +9,6 @@ title: Written mediation
 
 ---
 
-## 🎯 Goal of written mediation
-
-> To clearly and effectively **communicate the relevant ideas** from a text, adapting them to **suit the target audience**.
-
----
-
-## ✍️ Step-by-step strategy
-
-1. **Read the original text carefully**  
-   ➤ Identify the main idea clearly. (numbers, source, country...).
-
-2. **Use your own words**  
-   ➤ Explain the (most relevants) details.
-
-3. **Organize the information logically**  
-   ➤ Group similar ideas, highlight contrasts or trends, and avoid repeating things unnecessarily.
-
-4. **Be clear, concise, and objective**  
-   ➤ Prioritize what matters — don’t include every detail, just the relevant ones.
-
-5. **Not all the percentages has to be transformed in quarters**
-
----
-
 ## ✅ Quality checklist
 
 -   [ ] **Clear main idea**
@@ -72,6 +48,10 @@ Begin by **setting the context** of the original text. Mention where the informa
 -   “Considering this, I'm going to explain…”
 -   “Here's a quick summary of what the text says about…”
 -   “The main idea of the article is that…”
+-   "The article/report discusses..."
+-   "According to the source..."
+-   "The main focus is on..."
+-   "It outlines the reasons why..."
 
 ### Example:
 
@@ -92,6 +72,21 @@ Wrap things up by **summarizing the main takeaway**, or **offering a closing ide
 -   “So, basically, it means that…”
 -   “It seems like this trend will continue in the future.”
 
-### Example:
+---
 
-> “To sum up, the article shows that technology is becoming essential in healthcare, and the author is optimistic about its future role.”
+### ✅ Do’s & Don’ts
+
+**DO:**
+
+-   Keep the message clear and to the point
+-   Use formal language unless otherwise specified
+-   Adapt content to the target audience’s needs
+-   Be objective unless instructed to reflect
+
+**DON’T:**
+
+-   Add your own opinions unless asked
+-   Copy large parts of the original text
+-   Omit key information or distort the message
+
+---

@@ -87,6 +87,7 @@ title: Topics
 -   Creepy: scary or strange
 -   Heavy-going: hard to read
 -   Implausible: not realistic
+-   Overlook: ignored
 
 ---
 
@@ -375,3 +376,25 @@ title: Topics
 -   Recharge your batteries: rest and feel better
 
 ---
+
+## Nature
+
+-   Reciclyn:
+-   Landfill:
+-   Garbage:
+-   Waste disposal:
+-   Pollution:
+-   Water shortage:
+-   Drougth:
+-   Gas emission:
+-   Melting of ice caps:
+-   Gloval warming:
+-   Heatwave:
+-   Deforestation:
+-   Invasive species, alien species:
+-   Greenhouse effect:
+-   Overexploitation:
+-   PverPhishing:
+-   Floods:
+-   Flash:
+-

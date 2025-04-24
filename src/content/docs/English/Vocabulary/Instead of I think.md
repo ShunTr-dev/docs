@@ -2,8 +2,6 @@
 title: Instead of "I think"
 ---
 
-# Instead of "I think"
-
 I am of the opinion that...
 I cant help thinking of that (no puedo evitar pensar sobre que)
 From my point of view
