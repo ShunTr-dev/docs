@@ -243,6 +243,7 @@ title: Topics
 -   Landscape: painting of nature
 -   Seascape: painting of the sea
 -   Genre: everyday life scene painting
+-   For the sake of art: "Por el amor al arte, por el arte"
 
 ---
 
@@ -281,29 +282,145 @@ title: Topics
 -   Wild: not tamed
 -   Furry: with fur
 -   Nocturnal: active at night
+-   Offspring: desdendencia
+    -   Cub: offspring of a lion
+    -   Dog: puppy
+    -   Goat: kid
+    -   Horse: foal
+    -   Cow: calf
+    -   Hen: chick
 
 ---
 
-## Food
+Claro, aquí tienes el listado completado en inglés con los nombres de los alimentos en castellano entre paréntesis cuando corresponda:
 
--   Spicy: hot taste
--   Bitter: sharp and strong taste
--   Sweet: sugary taste
--   Savory: salty or spicy
--   Bland: no flavor
--   Tasty: good flavor
--   Ripe: ready to eat
--   Raw: not cooked
--   Cooked: prepared with heat
--   Grilled: cooked on fire or grill
--   Steamed: cooked with steam
--   Baked: cooked in oven
--   Fried: cooked in oil
--   Vegan: no animal products
--   Vegetarian: no meat
--   Junk food: unhealthy food
--   Organic: no chemicals
--   Leftovers: food from before
+---
+
+## Food (Comida)
+
+-   Spicy hot taste (picante)
+-   Sweet: sugary taste (dulce)
+-   Savory: salty or spicy (sabroso)
+-   Bland: no flavor (insípido)
+-   Tasty: good flavor (sabroso, rico)
+-   Ripe: ready to eat (maduro)
+-   Raw: not cooked (crudo)
+-   Cooked: prepared with heat (cocinado)
+-   Grilled: cooked on fire or grill (a la parrilla)
+-   Steamed: cooked with steam (al vapor)
+-   Bitter sharp and strong taste (amargo)
+-   Baked: cooked in oven (horneado)
+-   Fried: cooked in oil (frito)
+-   Vegan: no animal products (vegano)
+-   Vegetarian: no meat (vegetariano)
+-   Junk food: unhealthy food (comida basura)
+-   Organic: no chemicals (orgánico)
+-   Leftovers: food from before (sobras)
+
+### Diet Types:
+
+-   Omnivore: eats both plants and animals (omnívoro)
+-   Flexitarian: mostly plant-based, occasionally eats meat (flexitariano)
+-   Pescatarian: vegetarian who eats fish (pescetariano)
+-   Vegetarian: no meat, may eat dairy and eggs (vegetariano)
+-   Vegan: no animal products at all (vegano)
+
+### Idioms:
+
+-   Being the apple of my eye: Being the favourite person (ser el ojo derecho de alguien)
+-   It's a piece of cake: Something easy (es pan comido)
+-   Couch potato: Someone who is very lazy (una persona muy sedentaria)
+-   Don't put all your eggs in one basket: Don’t risk everything in one place (no pongas todos los huevos en la misma cesta)
+-   As cool as a cucumber: Someone relaxed (tan tranquilo como un pepino)
+
+### Meats:
+
+-   Beef: (carne de vaca)
+-   Veal: (ternera)
+-   Poultry: meat from birds (aves)
+-   Pork: meat from pigs (cerdo)
+-   Lamb: meat from corderos (cordero)
+-   Game: hunted animals (carne de caza)
+
+### Fish (Pescado):
+
+-   Tuna: atún
+-   Salmon: salmón
+-   Squid: calamar
+-   Swordfish: pez espada
+-   Sardine: sardina
+-   Cod: bacalao
+-   Hake: merluza
+-   Seabass: lubina
+-   Plaice: lenguado
+
+### Shellfish (Marisco):
+
+-   Oyster: ostra
+-   Crab: cangrejo
+-   Mussels: mejillones
+-   Prawns / Shrimp: gambas / camarones
+-   Lobster: langosta
+-   Clams: almejas
+-   Razor clams: navajas
+-   Barnacles: percebes
+
+### Vegetables (Verduras):
+
+-   Green beans: judías verdes
+-   Corn: maíz
+-   Pepper: pimiento
+-   Peas: guisantes
+-   Aubergine / Eggplant: berenjena
+-   Broccoli: brócoli
+-   Spinach: espinaca
+-   Zucchini / Courgette: calabacín
+-   Celery: apio
+-   Leek: puerro
+
+### Fruits (Frutas):
+
+-   Avocado: aguacate
+-   Cherry: cereza
+-   Watermelon: sandía
+-   Pineapple: piña
+-   Peach: melocotón
+-   Kiwi fruit: kiwi
+-   Pear: pera
+-   Fig: higo
+-   Apricot: albaricoque
+-   Passion fruit: maracuyá
+-   Plum: ciruela
+
+### Berries (Frutos rojos):
+
+-   Strawberry: fresa
+-   Cranberries: arándanos rojos
+-   Blueberry: arándano azul
+-   Blackberry: mora
+-   Raspberry: frambuesa
+
+### Nuts / Dried Fruits (Frutos secos):
+
+-   Walnuts: nueces
+-   Peanuts: cacahuetes
+-   Hazelnuts: avellanas
+-   Almonds: almendras
+-   Pistachio: pistacho
+-   Chestnut: castaña
+-   Date: dátil
+-   Raisins: pasas
+
+### Grains (Cereales / Legumbres / Semillas):
+
+-   Rice: arroz
+-   Chickpeas: garbanzos
+-   Beans: alubias / frijoles
+-   Lentils: lentejas
+-   Cabbage seeds: semillas de col
+-   Sunflower seeds: pipas de girasol
+-   Wheat: trigo
+-   Oats: avena
 
 ---
 
@@ -394,7 +511,9 @@ title: Topics
 -   Invasive species, alien species:
 -   Greenhouse effect:
 -   Overexploitation:
--   PverPhishing:
+-   OverPhishing:
 -   Floods:
 -   Flash:
--
+-   Food miles:
+
+---
