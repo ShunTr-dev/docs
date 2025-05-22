@@ -292,10 +292,6 @@ title: Topics
 
 ---
 
-Claro, aquí tienes el listado completado en inglés con los nombres de los alimentos en castellano entre paréntesis cuando corresponda:
-
----
-
 ## Food (Comida)
 
 -   Spicy hot taste (picante)
@@ -494,26 +490,26 @@ Claro, aquí tienes el listado completado en inglés con los nombres de los alim
 
 ---
 
-## Nature
+## Nature (Naturaleza)
 
--   Reciclyn:
--   Landfill:
--   Garbage:
--   Waste disposal:
--   Pollution:
--   Water shortage:
--   Drougth:
--   Gas emission:
--   Melting of ice caps:
--   Gloval warming:
--   Heatwave:
--   Deforestation:
--   Invasive species, alien species:
--   Greenhouse effect:
--   Overexploitation:
--   OverPhishing:
--   Floods:
--   Flash:
--   Food miles:
+-   Recycling: reusing waste materials (reciclaje)
+-   Landfill: place where garbage is buried (vertedero)
+-   Garbage: waste, trash (basura)
+-   Waste disposal: getting rid of waste (eliminación de residuos)
+-   Pollution: contamination of the environment (contaminación)
+-   Water shortage: not enough water (escasez de agua)
+-   Drought: long period with no rain (sequía)
+-   Gas emission: release of gases into the air (emisión de gases)
+-   Melting of ice caps: ice at the poles turning into water (derretimiento de los casquetes polares)
+-   Global warming: rise in Earth's temperature (calentamiento global)
+-   Heatwave: long period of very hot weather (ola de calor)
+-   Deforestation: cutting down forests (deforestación)
+-   Invasive species / Alien species: non-native organisms that harm ecosystems (especies invasoras)
+-   Greenhouse effect: trapping of heat by gases in the atmosphere (efecto invernadero)
+-   Overexploitation: excessive use of natural resources (sobreexplotación)
+-   Overfishing: catching too many fish (sobrepesca)
+-   Floods: too much water covering land (inundaciones)
+-   Flash flood: sudden, intense flood (inundación repentina / relámpago)
+-   Food miles: distance food travels from source to consumer (kilómetros alimentarios / huella de transporte de alimentos)
 
 ---
