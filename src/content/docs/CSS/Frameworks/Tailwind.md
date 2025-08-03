@@ -92,7 +92,7 @@ Instala la extensión **Tailwind CSS IntelliSense** para autocompletado, documen
 Además, si `@theme` da error en los `.css`, ya que es algo propio de tailwind y no de css asocia los archivos css a tailwind:
 
 ```json
-// .vscode/settings.json
+# .vscode/settings.json
 {
     "files.associations": {
         "*.css": "tailwindcss"
