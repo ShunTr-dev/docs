@@ -1,6 +1,6 @@
 ---
-title: Tailwind CSS
-description: Aprende a usar Tailwind CSS, un framework utility-first para crear interfaces web de forma rápida y flexible.
+title: Tailwind
+description: Tailwind, un framework CSS para crear interfaces web de forma rápida y flexible.
 ---
 
 # [Tailwind CSS](https://tailwindcss.com/)
