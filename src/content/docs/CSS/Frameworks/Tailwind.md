@@ -140,7 +140,7 @@ Tailwind permite modificar su tema predeterminado desde el archivo `tailwind.con
 }
 ```
 
-Luego la puedes usar vía Tailwind:
+Luego la puedes poner en el tema y usarla en tu CSS:
 
 ```css
 @theme {
