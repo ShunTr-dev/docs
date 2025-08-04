@@ -2,7 +2,6 @@
 title: HTML Básico
 ---
 
-
 # HTML - Hypertext Markup Language
 
 ## ¿De qué se encarga HTML?
@@ -110,6 +109,8 @@ En el body ponemos nuestro contenido.
     </body>
 </html>
 ```
+
+Para ver que tipos de og tags existen, puedes visitar [Open Graph Protocol](https://ogp.me/).
 
 ## HTML Semántico
 
