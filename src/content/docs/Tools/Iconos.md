@@ -2,7 +2,6 @@
 title: Iconos
 ---
 
-
 # Iconos
 
 ## [TABLER ICONS](https://github.com/tabler/tabler-icons)
@@ -35,3 +34,29 @@ Beautiful & consistent icons made by the community.
 ## [HugeIcons](https://hugeicons.com/)
 
 Beautiful icon library, made for creativity.
+
+## [Radix](https://www.radix-ui.com/icons)
+
+A crisp set of 15×15 icons
+
+## [Material Icons](https://fonts.google.com/icons)
+
+Material icons library by Google
+
+## [Iconoir](https://iconoir.com/)
+
+A set of 1,000+ open-source icons
+
+## [CSS.gg](https://css.gg/)
+
+700+ Pure CSS, SVG & Figma UI Icons, and 6000+ glyphs, patterns, colors and layouts.
+
+## [Animated Icons](https://animatedicons.co/icons/minimalistic?type=free)
+
+## [React Icons](https://react-icons.github.io/react-icons/icons/di/)
+
+Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+
+## [Heroicons](https://heroicons.com/)
+
+Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
