@@ -2,7 +2,6 @@
 title: Repositorios interesantes
 ---
 
-
 # Repositorios interesantes
 
 ## [Clone Wars](https://github.com/GorvGoyl/Clone-Wars)
@@ -31,3 +30,22 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 ## [Athena crisis](https://github.com/nkzw-tech/athena-crisis)
 
 Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
+
+## [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+
+An evolving how-to guide for securing a Linux server that, hopefully, also teaches you a little about security and why it matters.
+
+## [LLM engineertoolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
+
++120 bibliotecas organizadas para cada fase del desarrollo:
+
+→ Entrenar, ajustar y evaluar modelos
+→ Desplegar aplicaciones con LLMs y RAG
+→ Ejecutar modelos de forma rápida y escalable
+→ Extracción de datos, crawlers y scraper
+→ Crear agentes autónomos basados en LLMs
+→ Optimización de prompts y seguridad
+
+## [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.es-ES.md)
+
+Este repositorio contiene ejemplos basados en JavaScript de muchos algoritmos y estructuras de datos populares.
