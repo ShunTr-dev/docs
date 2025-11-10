@@ -49,3 +49,7 @@ An evolving how-to guide for securing a Linux server that, hopefully, also teach
 ## [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.es-ES.md)
 
 Este repositorio contiene ejemplos basados en JavaScript de muchos algoritmos y estructuras de datos populares.
+
+## [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
+¡Colección de diagramas de Software y Programación!
